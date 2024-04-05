@@ -4,7 +4,7 @@
 Spring 프레임워크 딥다이브 스터디!!! 🔥🔥🔥
 
 ## 🙋‍♂️🙋‍♀️ 스터디원
-<img height="150" alt="image" src="https://github.com/minwoorich/2024-spring-study/assets/66115670/ff50d65d-93d8-4306-b170-6a9775cd78d7"> | <img height="150" alt="image" src="https://github.com/minwoorich/2024-spring-study/assets/66115670/dd3f30cc-83a0-42e4-ac71-6491b526c230"> | <img height="150" alt="image" src="https://github.com/minwoorich/2024-spring-study/assets/66115670/04473df6-530a-449e-b9b4-35102bae9088"> | <img height="150" alt="image" src=""> | <img height="150" alt="image" src=""> 
+<img height="130" alt="image" src="https://github.com/minwoorich/2024-spring-study/assets/66115670/ff50d65d-93d8-4306-b170-6a9775cd78d7"> | <img height="130" alt="image" src="https://github.com/minwoorich/2024-spring-study/assets/66115670/dd3f30cc-83a0-42e4-ac71-6491b526c230"> | <img height="130" alt="image" src="https://github.com/minwoorich/2024-spring-study/assets/66115670/04473df6-530a-449e-b9b4-35102bae9088"> | <img height="130" alt="image" src=""> | <img height="130" alt="image" src=""> 
 :---: | :---: | :---: | :---: | :---: | 
 정민우([@minwoorich](https://github.com/minwoorich)) | 평민호([@PyoungMinho](https://github.com/PyoungMinho)) | 한윤재([@mulgoms2](https://github.com/mulgoms2))
 ## ❗ 스터디 규칙

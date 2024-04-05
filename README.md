@@ -1,5 +1,9 @@
+
 # 🌸 2024 다 같이 함께하는 Spring 나들이 🌱
+<img src="https://github.com/minwoorich/2024-spring-study/assets/66115670/ea597b43-2e34-41b4-985c-42e8644cb343" style="margin:0;width:600px"/><br/><br/>
 Spring 프레임워크 딥다이브 스터디!!! 🔥🔥🔥
+
+
 
 ## 🙋‍♂️🙋‍♀️ 스터디원
 ## ❗ 스터디 규칙
